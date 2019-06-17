@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  NewsPOC
+
+  Created by Manjunath Kaliwal on 6/17/19
+  Copyright © 2019 Manjunath Kaliwal. All rights reserved.
+*/
+"TITLE" = "NY Times Most Popular";
+
+"NO_INTERNET" =  "No internet connection";
+
+"NO_DATA"     =  "Data not found";
+
+"APP_NANE"    =  "NewsPOC";
+
+"PROBLEM"     =  "There was a problem when trying to open";
